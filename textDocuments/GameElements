@@ -1,0 +1,31 @@
+ Ring Tossing Game
+
+Elements of the game:-
+1.Playing character= Tina(tosses the rings)
+
+2.Non playing characters= Gift1,Gift2,Gift3,Gift4,Gift5,Trophy
+*Gift1= dress 
+Gift2= ball
+Gift3= aeroplane
+Gift4= robot
+Gift5= teddybear
+Trophy appears when Tina gets 5 or 6 gifts.
+
+3.Story= Tina likes to play games at the amusement park. Her favorite game is the Ring tossing game. So she wants to make a similar computer game.
+
+4.Rules=
+-we will get 3 chances.
+-once the ring is released, the chance is gone.
+-if we will toss the ring on a gift, we will get that gift.
+-we will loose the game if we do not get any gift after 3 chances.
+
+5.Goal= The ring should fall on one of the gifts.
+
+6.Adaptivity=There are 2 levels in this game:-  In the first level, Tina will get 3 chances. If she gets 3 gifts in 3 chances, she goes to the next level.
+In the second level she will get more 3 chances. If she gets 2 or more gifts, she gets a trophy.
+
+7.Balance= The position of the gift and the ring should be in such a way that it is not too hard ans it is possible for the ring to fall on the gift.
+
+8.Skill= Player has to toss the ring in such a way that the direction is correct.
+
+9.Feedback(Score)= With each gift, we will get 10 points.
